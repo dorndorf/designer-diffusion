@@ -1,0 +1,21 @@
+[
+    {"name": "Ancient Egypt", "start": -3100, "end": -801},
+    {"name": "Classical Greece", "start": -800, "end": -146},
+    {"name": "Roman Republic", "start": -146, "end": -27},
+    {"name": "Roman Empire", "start": -27, "end": 476},
+    {"name": "Early Middle Ages", "start": 476, "end": 800},
+    {"name": "Viking Age", "start": 800, "end": 1050},
+    {"name": "High Middle Ages", "start": 1050, "end": 1300},
+    {"name": "Renaissance", "start": 1300, "end": 1600},
+    {"name": "Age of Exploration", "start": 1600, "end": 1750},
+    {"name": "Industrial Revolution", "start": 1750, "end": 1850},
+    {"name": "Victorian Era", "start": 1850, "end": 1900},
+    {"name": "Early 20th Century", "start": 1900, "end": 1945},
+    {"name": "Post-War Era", "start": 1945, "end": 1960},
+    {"name": "Space Race", "start": 1960, "end": 1975},
+    {"name": "Digital Age", "start": 1975, "end": 2000},
+    {"name": "21st Century", "start": 2000, "end": 2024},
+    {"name": "Near Future", "start": 2025, "end": 2050},
+    {"name": "Future", "start": 2051, "end": 2100},
+    {"name": "Far Future", "start": 2101, "end": 99999}
+]

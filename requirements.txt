@@ -1,0 +1,6 @@
+gradio==4.16.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+Pillow==10.2.0
+diffusers==0.25.1
+transformers==4.37.1
